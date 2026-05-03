@@ -5,7 +5,7 @@
 
   # 📜 Pedro Antonio - pedroogit
 
-  Me chamo Pedro Antônio Cesconetto Covre, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em mecatrônica.
+  Me chamo Pedro Antônio Cesconetto Covre, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em mecatrônica. (add mais coisa)
 
 </div>
 
@@ -32,6 +32,13 @@
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
+    <img 
+      align="center" 
+      alt="Git" 
+      title="Git"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
   <img 
       align="center" 
       alt="TypeScript"
@@ -46,41 +53,11 @@
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
   />
-  <img 
-      align="center" 
-      alt="Bootstrap"
-      title="Bootstrap" 
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-  />
-  <img 
-      align="center" 
-      alt="Git" 
-      title="Git"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
 </div>
-
-
-# 
-
-###
-
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedroogit@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
-  
-</div>
-
-
-
-
-
 
 <div align="center">
 
-  **`Desenvolvedora FullStack - Junior`**
+  **`Desenvolvedodor FullStack - Junior`**
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=18&section=footer"/>
