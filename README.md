@@ -15,61 +15,55 @@
       align="center" 
       alt="HTML"
       title="HTML" 
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
   <img 
       align="center" 
       alt="CSS" 
       title="CSS"
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img 
       align="center" 
       alt="JavaScript" 
       title="JavaScript"
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   <img 
       align="center" 
       alt="TypeScript"
       title="TypeScript" 
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
   <img 
       align="center" 
       alt="SASS" 
       title="SASS"
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
   />
   <img 
       align="center" 
       alt="Bootstrap"
       title="Bootstrap" 
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
   <img 
       align="center" 
       alt="Git" 
       title="Git"
-      width="30px" 
+      width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
 </div>
 
 
 # 
-
-
-<div align="center">
-  
-  ### 📊 Contact me
-</div>
 
 ###
 
