@@ -9,7 +9,7 @@
 <div align="center">
   
 <!-- DIRETORIO DAS FIGS: https://github.com/tandpfun/skill-icons#icons-list -->
-[![My Skills](https://skillicons.dev/icons?i=arduino,github,git,html,css,js,ts,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,html,css,js,ts,nodejs,npm,arduino)](https://skillicons.dev)
 
 <div align="center">
   
