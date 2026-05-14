@@ -4,7 +4,7 @@
 
   # 📜 Pedro Antonio - pedroogit
   
-#### Me chamo Pedro Antônio Cesconetto Covre, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFSC, com o curso técnico em mecatrônica. (add mais coisa)
+#### Me chamo Pedro Antônio Cesconetto Covre, tenho 17 anos e sou natural de Santa Catarina, Urussanga. Estou no ultimo ano do ensino médio no IFSC campus Criciúma, com o técnico em mecatrônica.
 </div>
 
 <div align="center">
